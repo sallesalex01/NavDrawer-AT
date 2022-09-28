@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="telefone_usuario">21 967252832</string>
+    <string name="estado_civil_usuario">Solteiro</string>
+    <string name="data_nascimento_usuario">04/12/2001</string>
+    <string name="idade_usuario">20</string>
+    <string name="nome_usuario">Alexsandro Salles</string>
+    <string name="infnet_analise_e_desenvolvimento_de_sistemas">Infnet - Analise e Desenvolvimento de Sistemas</string>
+    <string name="primeira_publicação">https://youtu.be/dQw4w9WgXcQ</string>
+    <string name="segunda_publicação">https://youtu.be/enUDME4tfzk</string>
+    <string name="nenhuma_experiencia1">Nenhuma por favor me arruma um emprego</string>
+    <string name="nenhuma_experiencia2">De preferencia sem ser android, mas se tiver android a gnt aceita também</string>
+</resources>
